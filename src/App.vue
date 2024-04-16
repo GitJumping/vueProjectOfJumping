@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <!--渲染路由的组件-->
     <router-view/>
   </div>
 </template>
